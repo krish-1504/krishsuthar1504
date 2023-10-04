@@ -1,5 +1,6 @@
 ### Hi there 👋
-Viewer Counter => ![Visitor Count](https://profile-counter.glitch.me/krishsuthar1504/count.svg)
+Viewer Counter => <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishsuthar1504&label=Profile%20views&color=0e75b6&style=flat" alt="KrishSuthar" /> </p>
+
 
 <!--
 **krishsuthar1504/krishsuthar1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
