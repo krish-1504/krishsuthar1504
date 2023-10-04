@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/krishsuthar1504/count.svg)
+Viewer Counter => ![Visitor Count](https://profile-counter.glitch.me/krishsuthar1504/count.svg)
 
 <!--
 **krishsuthar1504/krishsuthar1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
