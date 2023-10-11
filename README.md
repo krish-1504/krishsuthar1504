@@ -1,7 +1,11 @@
 ### Hi there 👋
 Viewer Counter : <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishsuthar1504&label=Profile%20views&color=0e75b6&style=flat" alt="KrishSuthar" /> </p>
 
-## WEB Stack📚
+## 💻 Workspace Specs
+(https://img.shields.io/badge/Apple-MacBook_Air-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+
+## 📚 WEB Stack
 ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp; ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
