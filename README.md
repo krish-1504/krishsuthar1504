@@ -21,5 +21,5 @@ Viewer Counter : <p align="left"> <img src="https://komarev.com/ghpvc/?username=
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Some Stats
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username={krishsuthar1504}&theme=blue-green)&nbsp;![contrib](https://github-readme-stats.vercel.app/api?username={krishsuthar1504}&theme=blue-green)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsuthar1504&theme=blue-green)&nbsp;![contrib](https://github-readme-stats.vercel.app/api?username=krishsuthar1504&theme=blue-green)
 
