@@ -1,5 +1,4 @@
-### Hi there 👋
-Viewer Counter : <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishsuthar1504&label=Profile%20views&color=0e75b6&style=flat" alt="KrishSuthar" /> </p>
+### So KRISHH Here 👋
 
 ## 💻 Workspace Specs
 ![Laptop](https://img.shields.io/badge/Apple-MacBook_Air-999999?style=for-the-badge&logo=apple&logoColor=white)
