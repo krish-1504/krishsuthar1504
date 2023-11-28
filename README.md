@@ -1,9 +1,5 @@
 ### So KRISHH Here 👋
 
-## 💻 Workspace Specs
-![Laptop](https://img.shields.io/badge/Apple-MacBook_Air-999999?style=for-the-badge&logo=apple&logoColor=white)
-
-
 ## 📚 WEB Stack
 
 ### Python :
@@ -18,7 +14,4 @@
 
 ## 📚 DSA 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-## Some Stats
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsuthar1504&theme=blue-green)&nbsp;
 
